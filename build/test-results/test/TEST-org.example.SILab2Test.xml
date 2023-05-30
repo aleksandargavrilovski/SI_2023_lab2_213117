@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SILab2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-30T22:08:58" hostname="DESKTOP-7VL5J5H" time="0.046">
+  <properties/>
+  <testcase name="function()" classname="org.example.SILab2Test" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
